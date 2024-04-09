@@ -4,7 +4,12 @@ html {
   box-sizing: border-box;
   font-size: 16px;
 }
-  
+ /*test*/
+@media [(media-features) ] {
+  // Styles
+}
+
+
 *, *:before, *:after {
   box-sizing: inherit;
 }
@@ -150,7 +155,7 @@ header {
 .article h2 {
   font-size: 20px;
   margin-top: 10px;
-}
+}/*111*/
 
 .article p {
   margin-top: 10px;
